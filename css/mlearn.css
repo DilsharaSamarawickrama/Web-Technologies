@@ -1,0 +1,33 @@
+@charset "utf-8";
+.form-group #exampleInputEmail1 {
+	width: 250px;
+	visibility: visible;
+	padding-left: 71px;
+
+
+
+
+
+}
+.form-group #exampleInputPassword1 {
+	width: 183px;
+	padding-left: 68px;
+}
+.form-group label {
+	width: 168px;
+}
+
+.jumbotron {
+	background-color: #000000;
+	opacity: 0.78;
+	padding-left: 14px;
+}
+label {
+	color: #FCFCFC;
+}
+tr td .form-control {
+	width: 300px;
+}
+#spec {
+	width: 152px;
+}

@@ -1,0 +1,40 @@
+body {
+	background: linear-gradient (rgba(0,0,0,0.6));
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	
+	
+}
+
+div.transbox{
+	margin: 30px;
+  background-color: #ffffff;
+  opacity: 0.8;
+  filter: alpha(opacity=60);
+}
+
+input[type=text], input[type=password] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.stuform{
+	display:none;
+}
+
+.lecform{
+	display:none;
+}
+
+.signinstu{
+	display:none;
+}
+
+.signinlec{
+	display:none;
+}

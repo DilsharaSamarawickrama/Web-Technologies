@@ -1,0 +1,38 @@
+.container-fluid .navbar.navbar-default.navbar-fixed-top {
+	background-color: #000000;
+	padding-left: 0px;
+	left: 15px;
+	right: 15px;
+}
+.container-fluid h2 {
+	margin-top: -132px;
+	margin-bottom: 109px;
+	font-size: 50px;
+	color: #FFFFFF;
+}
+.container-fluid h3 {
+	margin-top: -115px;
+	margin-bottom: 162px;
+	color: #FFFFFF;
+}
+.row .col-sm-6.col-md-4 {
+
+
+}
+.container-fluid #gallery {
+	margin-top: -90px;
+}
+
+.row .col-sm-6.col-md-4 .thumbnail {
+	height: 420px;
+}
+.container-fluid .img-rounded.img-responsive {
+	margin-left: 0px;
+	padding-bottom: 1px;
+}
+#2nd {
+	margin-top: 25px;
+}
+.container-fluid .flo1 {
+	margin-top: -88px;
+}
